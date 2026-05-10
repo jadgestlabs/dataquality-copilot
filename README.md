@@ -2,6 +2,23 @@
 
 AI-assisted data quality monitoring for modern data pipelines.
 
+---
+
+## Dashboard Preview
+
+![DQ Dashboard](screenshots/dataquality-copilot-dq-dashboard.png)
+
+![DQ Dashboard 2](screenshots/dataquality-copilot-dq-dashboard2.png)
+
+---
+
+## Rules & Quality Overview
+
+![Rules Overview](screenshots/dataquality-copilot-dq-rules_overview.png)
+
+---
+
+
 ## Problem
 
 Many business dashboards fail silently because of poor data quality.
@@ -62,6 +79,16 @@ AI Explanation Layer
         ↓
 Executive Report
 ```
+---
+
+## Documentation
+
+See:
+- example-rules.md
+- architecture.md
+- use-cases.md
+
+---
 
 ## Roadmap
 
